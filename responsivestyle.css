@@ -43,6 +43,9 @@
         font-family: "游ゴシック", "Yu Gothic";
         font-family: 'Zen Kaku Gothic New', sans-serif;
     }
+    li{
+        list-style: none;
+    }
 
     /* .slide{
     margin-top: 5%;
