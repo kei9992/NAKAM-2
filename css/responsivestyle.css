@@ -58,7 +58,8 @@ s
         height: 100%;
         width: 100%;
         background-color: #a52929;
-        display: flex;
+        position: relative;
+        
 
 
 
@@ -96,8 +97,9 @@ s
         width: 30vw;
         height: 100vh;
         /* background: #b1b1b1; */
-        position: relative;
-        right: 0;
+        position: absolute;
+        right: 50px;
+        top: 0%;
 
 
 
@@ -891,6 +893,7 @@ s
         height: 135vh;
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .s4-list1 {
